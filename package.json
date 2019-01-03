@@ -1,0 +1,28 @@
+{
+  "name": "choerodon-ui-font",
+  "version": "0.0.1",
+  "description": "font file for choerodon-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choerodon/choerodon-ui-font.git"
+  },
+  "keywords": [
+    "choerodon",
+    "ui",
+    "icon",
+    "font"
+  ],
+  "files": [
+    "fonts"
+  ],
+  "author": "binjie chen <binjie09@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choerodon/choerodon-ui-font/issues"
+  },
+  "homepage": "https://github.com/choerodon/choerodon-ui-font#readme"
+}
