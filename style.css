@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ortu74');
-  src:  url('fonts/icomoon.eot?ortu74#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ortu74') format('truetype'),
-    url('fonts/icomoon.woff?ortu74') format('woff'),
-    url('fonts/icomoon.svg?ortu74#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?qstr3k');
+  src:  url('fonts/icomoon.eot?qstr3k#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?qstr3k') format('truetype'),
+    url('fonts/icomoon.woff?qstr3k') format('woff'),
+    url('fonts/icomoon.svg?qstr3k#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-token:before {
+  content: "\e9d2";
+}
+.icon-change_size:before {
+  content: "\e9d3";
+}
 .icon-add_crt:before {
   content: "\e9cf";
 }
@@ -158,6 +164,33 @@
 }
 .icon-report_overview:before {
   content: "\e9ae";
+}
+.icon-sutask:before {
+  content: "\e965";
+}
+.icon-baseline-arrow_drop_down:before {
+  content: "\e966";
+}
+.icon-baseline-arrow_drop_up:before {
+  content: "\e967";
+}
+.icon-baseline-arrow_left:before {
+  content: "\e968";
+}
+.icon-baseline-arrow_right:before {
+  content: "\e969";
+}
+.icon-baseline-link_off:before {
+  content: "\e963";
+}
+.icon-baseline-drag_indicator:before {
+  content: "\e960";
+}
+.icon-baseline-file_copy:before {
+  content: "\e961";
+}
+.icon-baseline-list_alt:before {
+  content: "\e962";
 }
 .icon-test_execute:before {
   content: "\e9a8";
@@ -419,33 +452,6 @@
 }
 .icon-wait_circle:before {
   content: "\e949";
-}
-.icon-sutask:before {
-  content: "\e965";
-}
-.icon-baseline-arrow_drop_down:before {
-  content: "\e966";
-}
-.icon-baseline-arrow_drop_up:before {
-  content: "\e967";
-}
-.icon-baseline-arrow_left:before {
-  content: "\e968";
-}
-.icon-baseline-arrow_right:before {
-  content: "\e969";
-}
-.icon-baseline-link_off:before {
-  content: "\e963";
-}
-.icon-baseline-drag_indicator:before {
-  content: "\e960";
-}
-.icon-baseline-file_copy:before {
-  content: "\e961";
-}
-.icon-baseline-list_alt:before {
-  content: "\e962";
 }
 .icon-add_activity:before {
   content: "\e942";
