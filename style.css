@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?3azjnc');
-  src:  url('fonts/icomoon.eot?3azjnc#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?3azjnc') format('truetype'),
-    url('fonts/icomoon.woff?3azjnc') format('woff'),
-    url('fonts/icomoon.svg?3azjnc#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?5uo7vy');
+  src:  url('fonts/icomoon.eot?5uo7vy#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?5uo7vy') format('truetype'),
+    url('fonts/icomoon.woff?5uo7vy') format('woff'),
+    url('fonts/icomoon.svg?5uo7vy#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-auto_complete:before {
+  content: "\e9e0";
+}
+.icon-combo_box:before {
+  content: "\e9e1";
+}
+.icon-data_source:before {
+  content: "\e9e2";
+}
+.icon-multistage_combo_box:before {
+  content: "\e9e3";
+}
+.icon-number:before {
+  content: "\e9e4";
+}
+.icon-popup_selection:before {
+  content: "\e9e5";
+}
+.icon-toggle_off:before {
+  content: "\e9e6";
+}
+.icon-project_program_analyze:before {
+  content: "\e9df";
+}
 .icon-API_management:before {
   content: "\e9d8";
 }
