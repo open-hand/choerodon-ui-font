@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ropsgc');
-  src:  url('fonts/icomoon.eot?ropsgc#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ropsgc') format('truetype'),
-    url('fonts/icomoon.woff?ropsgc') format('woff'),
-    url('fonts/icomoon.svg?ropsgc#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?3azjnc');
+  src:  url('fonts/icomoon.eot?3azjnc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3azjnc') format('truetype'),
+    url('fonts/icomoon.woff?3azjnc') format('woff'),
+    url('fonts/icomoon.svg?3azjnc#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-API_management:before {
+  content: "\e9d8";
+}
+.icon-API_market:before {
+  content: "\e9d9";
+}
+.icon-API_publish:before {
+  content: "\e9da";
+}
+.icon-API_subscription:before {
+  content: "\e9db";
+}
+.icon-APIS:before {
+  content: "\e9dc";
+}
+.icon-auto_deploy:before {
+  content: "\e9dd";
+}
+.icon-deploy_list:before {
+  content: "\e9de";
+}
 .icon-sync_records:before {
   content: "\e9d6";
 }
