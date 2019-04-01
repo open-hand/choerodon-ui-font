@@ -1,0 +1,4 @@
+Choerodon-ui-font authors:
+
+陈彬杰 <binjie.chen@hand-china.com>
+HughHzWu <99571603@qq.com>
