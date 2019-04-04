@@ -6,6 +6,7 @@ Object.defineProperty(exports, '__esModule', {
 
 var categories = {
   whatsNew: [
+    'subscription',
     'publish_cancel', 'subscription_cancel', 'project_program', 'agile-feature', 'baseline-vertical_split',
     'number', 'popup_selection', 'toggle_off', 'project_program_analyze', 'application_-general',
     'deploy_list', 'auto_complete', 'combo_box', 'data_source', 'multistage_combo_box',
