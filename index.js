@@ -70,7 +70,7 @@ var categories = {
     'link', 'link2', 'baseline-link_off', 'baseline-drag_indicator', 'baseline-file_copy', 'sms_outline', 'versionline',
     'root', 'micro', 'publish2', 'center', 'filter2', 'manage_person',
     'manage_organization', 'password', 'custom_Directory', 'predefine', 'project', 'return', 'API',
-    '／', 'application_model', 'microservice', 'instance', 'instance_outline', 'IAM', 'routeroutline',
+    'wheel', 'application_model', 'microservice', 'instance', 'instance_outline', 'IAM', 'routeroutline',
     'version', 'devops', 'CI', 'kubernetes', 'branch', 'point', 'wait_circle', 'add_activity',
     'add_task', 'export', 'debug',
     'database', 'Development-monitoring', 'insight', 'jsfiddle', 'Operation-monitoring', 'rocket',
