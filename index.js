@@ -6,6 +6,8 @@ Object.defineProperty(exports, '__esModule', {
 
 var categories = {
   whatsNew: [
+    'redeploy_line', 'add_column', 'add_row', 'application_market', 'backup_line', 'delete_column', 'delete_row', 'establish_base',
+    'merge_cell', 'rate_review1', 'revocation', 'split_cell', 'template_configuration', 'widgets_line',
     'project_line', 'project_group', 'project_filled', 'scissors', 'category',
     'subscription', 'line_manage', 'nearby', 'authorize',
     'publish_cancel', 'subscription_cancel', 'project_program', 'agile-feature', 'baseline-vertical_split',
@@ -70,7 +72,7 @@ var categories = {
     'link', 'link2', 'baseline-link_off', 'baseline-drag_indicator', 'baseline-file_copy', 'sms_outline', 'versionline',
     'root', 'micro', 'publish2', 'center', 'filter2', 'manage_person',
     'manage_organization', 'password', 'custom_Directory', 'predefine', 'project', 'return', 'API',
-    'wheel', 'application_model', 'microservice', 'instance', 'instance_outline', 'IAM', 'routeroutline',
+    '／', 'application_model', 'microservice', 'instance', 'instance_outline', 'IAM', 'routeroutline',
     'version', 'devops', 'CI', 'kubernetes', 'branch', 'point', 'wait_circle', 'add_activity',
     'add_task', 'export', 'debug',
     'database', 'Development-monitoring', 'insight', 'jsfiddle', 'Operation-monitoring', 'rocket',
