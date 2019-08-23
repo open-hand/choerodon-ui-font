@@ -6,7 +6,7 @@ Object.defineProperty(exports, '__esModule', {
 
 var categories = {
   whatsNew: [
-    'redeploy_line', 'add_column', 'add_row', 'application_market', 'backup_line', 'delete_column', 'delete_row', 'establish_base',
+    'role_assignments', 'application_allocation', 'redeploy_line', 'add_column', 'add_row', 'application_market', 'backup_line', 'delete_column', 'delete_row', 'establish_base',
     'merge_cell', 'rate_review1', 'revocation', 'split_cell', 'template_configuration', 'widgets_line',
     'project_line', 'project_group', 'project_filled', 'scissors', 'category',
     'subscription', 'line_manage', 'nearby', 'authorize',
