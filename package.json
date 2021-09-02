@@ -1,11 +1,11 @@
 {
   "name": "choerodon-ui-font",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "font file for choerodon-ui",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/choerodon/choerodon-ui-font.git"
+    "url": "https://github.com/open-hand/choerodon-ui-font"
   },
   "keywords": [
     "choerodon",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/choerodon/choerodon-ui-font/issues"
+    "url": "https://github.com/open-hand/choerodon-ui-font/issues"
   },
-  "homepage": "https://github.com/choerodon/choerodon-ui-font#readme",
+  "homepage": "https://github.com/open-hand/choerodon-ui-font/blob/master/README.md",
   "scripts": {
     "deploy": "gulp deploy"
   },
