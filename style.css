@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?1six6b');
-  src:  url('fonts/icomoon.eot?1six6b#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?1six6b') format('truetype'),
-    url('fonts/icomoon.woff?1six6b') format('woff'),
-    url('fonts/icomoon.svg?1six6b#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?my6qqt');
+  src:  url('fonts/icomoon.eot?my6qqt#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?my6qqt') format('truetype'),
+    url('fonts/icomoon.woff?my6qqt') format('woff'),
+    url('fonts/icomoon.svg?my6qqt#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,7 +13,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -25,6 +25,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-biaoge-o:before {
+  content: "\ec62";
+}
+.icon-kanban:before {
+  content: "\ec63";
+}
+.icon-kapian:before {
+  content: "\ec64";
+}
+.icon-paixu-shang:before {
+  content: "\ec65";
+}
+.icon-paixu-xia:before {
+  content: "\ec66";
+}
+.icon-sort-all:before {
+  content: "\ec67";
+}
 .icon-agile_risk:before {
   content: "\ec61";
 }

@@ -1,6 +1,6 @@
 {
   "name": "choerodon-ui-font",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "font file for choerodon-ui",
   "main": "index.js",
   "repository": {
